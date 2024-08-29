@@ -4,20 +4,15 @@ import os
 import re
 import glob
 import datetime
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
 import img2pdf
 mainDir = "TestImage"
 
 
-def merge_images_to_pdf(image_list, output_pdf, output_dir, dpi=200, compress_level=1, verbose=False):
-
+def merge_images_to_pdf(image_list, output_pdf, output_dir, dpi=200, compress_level=1, verbose=True):
     output_path = os.path.join(os.path.join(output_dir, "PDF"), output_pdf)
-
     pdf_file = img2pdf.convert(image_list, dpi=dpi, compress_level=compress_level,rotation=img2pdf.Rotation.ifvalid)
     with open(output_path, 'wb') as f:
         f.write(pdf_file)
-
     if verbose:
         print(f"PDF created successfully: {output_path}")
 
@@ -109,11 +104,7 @@ class ImageRenamerGUI(tk.Tk):
         user_input = self.input_text.get("1.0", tk.END)
         folder_path = self.folder_path.get()
         output_folder = os.path.join(folder_path, "PDF")
-        # Check if the output folder already exists and remove it if necessary
-        if os.path.exists(output_folder):
-            os.remove(output_folder)
-        else:
-            os.makedirs(output_folder, exist_ok=True)
+        os.makedirs(output_folder, exist_ok=True)
         prefix = self.prefix_entry.get()
         if not user_input or not folder_path:
             tk.messagebox.showerror("Error", "Please enter data and select a folder.")

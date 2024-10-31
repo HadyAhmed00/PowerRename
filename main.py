@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import filedialog
+from tkinter import filedialog, messagebox
 import os
 import re
 import glob
@@ -61,6 +61,18 @@ def get_images(user_input, directory, prefix):
         start_imge += number_of_pages
     return total_renamed
 
+# Function to count total pages based on user input
+def count_total_pages(user_input):
+    input_list = user_input.strip().splitlines()
+    total_pages = 0
+    for data in input_list:
+        try:
+            _, _, number_of_pages = data.split(".")
+            total_pages += int(number_of_pages.strip())
+        except ValueError:
+            messagebox.showerror("Error", "Invalid input format.")
+            return
+    return total_pages
 
 class ImageRenamerGUI(tk.Tk):
     def __init__(self):
@@ -77,8 +89,22 @@ class ImageRenamerGUI(tk.Tk):
         # Prefix input area
         self.prefix_label = tk.Label(self, text="Enter prefix:")
         self.prefix_label.pack(pady=5)
-        self.prefix_entry = tk.Entry(self, width=20)
-        self.prefix_entry.pack()
+
+        # Frame to hold prefix entry, count button, and count label
+        prefix_frame = tk.Frame(self)
+        prefix_frame.pack()
+
+        # Prefix entry
+        self.prefix_entry = tk.Entry(prefix_frame, width=20)
+        self.prefix_entry.pack(side=tk.LEFT)
+
+        # Count label to show total pages
+        self.count_label = tk.Label(prefix_frame, text="Total Pages: 0", fg="blue")
+        self.count_label.pack(side=tk.LEFT, padx=5)
+
+        # Count button beside prefix entry
+        self.count_button = tk.Button(prefix_frame, text="Count", command=self.count_pages)
+        self.count_button.pack(side=tk.LEFT, padx=5)
 
         # Folder selection area
         self.folder_label = tk.Label(self, text="Select image folder:")
@@ -94,11 +120,18 @@ class ImageRenamerGUI(tk.Tk):
         self.rename_button.pack(pady=15)
 
         # Made with heart by Trasol Team label
-        self.made_by_label = tk.Label(self, text="Made with ❤️ by Trasol Team \n V 1.0.2 (PDF)")
+        self.made_by_label = tk.Label(self, text="Made with ❤️ by Trasol Team \n V 1.0.3 (PDF)")
         self.made_by_label.pack(side=tk.BOTTOM)
 
     def browse_folder(self):
         self.folder_path.set(filedialog.askdirectory())
+
+        # Method to count pages and show result
+    def count_pages(self):
+        user_input = self.input_text.get("1.0", tk.END)
+        total_pages = count_total_pages(user_input)
+        if total_pages is not None:
+            self.count_label.config(text=f"Total Pages: {total_pages}")
 
     def rename_images(self):
         user_input = self.input_text.get("1.0", tk.END)

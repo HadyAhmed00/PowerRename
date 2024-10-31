@@ -1,5 +1,321 @@
-('C:\\Users\\Hady Ahmed\\PycharmProjects\\PowerRename\\build\\main\\PYZ-00.pyz',
- [('_compat_pickle',
+('C:\\Users\\Hady '
+ 'Ahmed\\Documents\\GitHub\\PowerRename\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\_compat_pickle.py',
    'PYMODULE'),
@@ -13,6 +329,10 @@
   ('_pydecimal',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\_pydecimal.py',
    'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
   ('_strptime',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\_strptime.py',
    'PYMODULE'),
@@ -23,8 +343,146 @@
   ('argparse',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\argparse.py',
    'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('backports',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile.compat',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile.compat.py38',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
   ('base64',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\bdb.py',
    'PYMODULE'),
   ('bisect',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\bisect.py',
@@ -34,6 +492,41 @@
    'PYMODULE'),
   ('calendar',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\cgi.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('configparser',
    'C:\\Users\\Hady '
@@ -52,11 +545,32 @@
   ('csv',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\csv.py',
    'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\dataclasses.py',
+   'PYMODULE'),
   ('datetime',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\datetime.py',
    'PYMODULE'),
   ('decimal',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\doctest.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\Hady '
@@ -144,8 +658,14 @@
   ('fractions',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\fractions.py',
    'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ftplib.py',
+   'PYMODULE'),
   ('getopt',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\getpass.py',
    'PYMODULE'),
   ('gettext',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\gettext.py',
@@ -159,6 +679,37 @@
   ('hashlib',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\hashlib.py',
    'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('img2pdf',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\img2pdf.py',
+   'PYMODULE'),
   ('importlib',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\__init__.py',
@@ -170,6 +721,10 @@
   ('importlib._bootstrap_external',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\_common.py',
    'PYMODULE'),
   ('importlib.abc',
    'C:\\Users\\Hady '
@@ -183,28 +738,491 @@
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\metadata.py',
    'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\resources.py',
+   'PYMODULE'),
   ('importlib.util',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_resources',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources._adapters',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_resources._common',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('importlib_resources._itertools',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_resources.abc',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('importlib_resources.compat',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\compat\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py38',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\compat\\py38.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py39',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\compat\\py39.py',
+   'PYMODULE'),
+  ('importlib_resources.functional',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\functional.py',
+   'PYMODULE'),
+  ('importlib_resources.future',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\future\\__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.future.adapters',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\future\\adapters.py',
+   'PYMODULE'),
+  ('importlib_resources.readers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('jaraco.context',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('jaraco.functools',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('jaraco.text',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('jp2',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\jp2.py',
    'PYMODULE'),
   ('logging',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\logging\\__init__.py',
    'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.clean',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\clean.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
   ('lzma',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('more_itertools',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('more_itertools.more',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('more_itertools.recipes',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\nturl2path.py',
    'PYMODULE'),
   ('numbers',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\numbers.py',
    'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\opcode.py',
+   'PYMODULE'),
   ('optparse',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\packaging\\version.py',
    'PYMODULE'),
   ('pathlib',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pathlib.py',
    'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pdb.py',
+   'PYMODULE'),
   ('pickle',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pikepdf',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\__init__.py',
+   'PYMODULE'),
+  ('pikepdf._augments',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_augments.py',
+   'PYMODULE'),
+  ('pikepdf._cpphelpers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_cpphelpers.py',
+   'PYMODULE'),
+  ('pikepdf._exceptions',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_exceptions.py',
+   'PYMODULE'),
+  ('pikepdf._io',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_io.py',
+   'PYMODULE'),
+  ('pikepdf._methods',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_methods.py',
+   'PYMODULE'),
+  ('pikepdf._version',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_version.py',
+   'PYMODULE'),
+  ('pikepdf._xml',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\_xml.py',
+   'PYMODULE'),
+  ('pikepdf.codec',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\codec.py',
+   'PYMODULE'),
+  ('pikepdf.jbig2',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\jbig2.py',
+   'PYMODULE'),
+  ('pikepdf.models',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\__init__.py',
+   'PYMODULE'),
+  ('pikepdf.models._content_stream',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\_content_stream.py',
+   'PYMODULE'),
+  ('pikepdf.models._transcoding',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\_transcoding.py',
+   'PYMODULE'),
+  ('pikepdf.models.encryption',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\encryption.py',
+   'PYMODULE'),
+  ('pikepdf.models.image',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\image.py',
+   'PYMODULE'),
+  ('pikepdf.models.metadata',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\metadata.py',
+   'PYMODULE'),
+  ('pikepdf.models.outlines',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\models\\outlines.py',
+   'PYMODULE'),
+  ('pikepdf.objects',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\objects.py',
+   'PYMODULE'),
+  ('pikepdf.settings',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pikepdf\\settings.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\platform.py',
+   'PYMODULE'),
+  ('platformdirs',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\plistlib.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pprint.py',
@@ -212,14 +1230,37 @@
   ('py_compile',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\py_compile.py',
    'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\queue.py',
+   'PYMODULE'),
   ('quopri',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\quopri.py',
    'PYMODULE'),
   ('random',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\random.py',
    'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\secrets.py',
+   'PYMODULE'),
   ('selectors',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\shlex.py',
    'PYMODULE'),
   ('shutil',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\shutil.py',
@@ -229,6 +1270,13 @@
    'PYMODULE'),
   ('socket',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\ssl.py',
    'PYMODULE'),
   ('statistics',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\statistics.py',
@@ -242,8 +1290,14 @@
   ('subprocess',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\subprocess.py',
    'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\sysconfig.py',
+   'PYMODULE'),
   ('tarfile',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\tempfile.py',
    'PYMODULE'),
   ('textwrap',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\textwrap.py',
@@ -289,20 +1343,149 @@
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\tracemalloc.py',
    'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\tty.py',
+   'PYMODULE'),
   ('typing',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\unittest\\util.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\urllib\\__init__.py',
    'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\urllib\\error.py',
+   'PYMODULE'),
   ('urllib.parse',
    'C:\\Users\\Hady '
    'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\urllib\\parse.py',
    'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\urllib\\response.py',
+   'PYMODULE'),
   ('uu',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\uu.py',
    'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
   ('zipfile',
    'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Hady Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'C:\\Users\\Hady '
+   'Ahmed\\anaconda3\\envs\\PowerRenameEnv\\lib\\site-packages\\zipp\\glob.py',
    'PYMODULE')])
